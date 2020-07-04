@@ -1,0 +1,60 @@
+h1 {
+	margin: 6px;
+	padding: 10px;
+	font-size: 30px;
+	color: black;
+	font-family: 'Balsamiq Sans', cursive;
+}
+body {
+	color: black;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+/*HEADER*/
+#mynav {
+	background-color: #A0A0A0;
+	border-radius: 0;
+	border: 2px solid black;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: black;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	margin-top: 30px;
+}
+
+
+/*OUR MENU*/
+#our-menu h1{
+	font-size: 29px; 
+	text-align: center;
+}
+/*MENU CONTENTS*/
+#menu-items {
+	text-align: center;
+	font-size: 15px;
+	background-color: #A0A0A0;
+	padding: 0;
+	margin: 10px;
+	float: left;
+}
+
+.box {
+	   background-color: gray;
+	   width: 100%;
+	   color: black;
+	   text-align: center;
+	   padding: 5px;
+	   margin: 10px;
+}
+
+.navbar-toggle {
+	position: relative;
+	float: right;
+}
+#collapsable-nav {
+	padding-bottom: 25px;
+}		     
+
+
